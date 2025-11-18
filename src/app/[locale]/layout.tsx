@@ -5,6 +5,7 @@ import { Locale } from "@/lib/intl";
 import { i18n } from "../../../i18n-config";
 
 import "@/app/globals.css";
+import Navbar from "@/components/Navbar";
 
 export const metadata = {
   title: "Next.js i18n Dashboard Template",
@@ -13,7 +14,7 @@ export const metadata = {
 
 export default async function Root({
   params: paramsPromise,
-  children,
+    children,
 }: {
   params: Promise<{ locale: Locale }>;
   children: React.ReactNode;
@@ -22,8 +23,9 @@ export default async function Root({
 
   return (
     <html lang={params.locale}>
-      <body className="">
+      <body className="pt-8 relative">
         {children}
+        <Navbar/>
       </body>
     </html>
   );

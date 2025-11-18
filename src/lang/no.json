@@ -109,5 +109,16 @@
       "olympia": "Ekspertise fra olympiatoppen",
       "agder_kommune": "Støtte fra Agder fylkeskomune"
     }
+  },
+
+  "navbar": {
+    "home": "Hjem",
+    "about_us": "Om oss",
+    "contact": "Kontakt",
+    "download":"Last ned",
+    "norwegian": "Norsk",
+    "english": "Engelsk"
+    
+    
   }
 }

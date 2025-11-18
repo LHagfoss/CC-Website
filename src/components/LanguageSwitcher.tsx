@@ -1,26 +1,17 @@
-'use client';
+// LanguageSwitcher.tsx (Dette er en Server Component som standard)
+import { getTranslations } from 'next-intl/server';
+import LanguageSwitcherClient from './LanguageSwitcherClient'; // Importer klient-delen
 
-import {useLocale} from 'next-intl';
-import {useRouter, usePathname} from 'next/navigation';
+export default async function LanguageSwitcher() {
+  // HER kan du bruke await
+  const t = await getTranslations('navbar');
 
-export default function LanguageSwitcher() {
-  const router = useRouter();
-  const pathname = usePathname();
-  const locale = useLocale();
-
-  const switchLanguage = (newLocale: string) => {
-    const newPathname = pathname.replace(`/${locale}`, `/${newLocale}`);
-    router.replace(newPathname);
+  // Pakk oversettelsene inn i et objekt
+  const translations = {
+    english: t('english'),
+    norwegian: t('norwegian'),
   };
 
-  return (
-    <div>
-      <button onClick={() => switchLanguage('en')} disabled={locale === 'en'}>
-        English
-      </button>
-      <button onClick={() => switchLanguage('no')} disabled={locale === 'no'}>
-        Norsk
-      </button>
-    </div>
-  );
+  // Send dataene videre til klient-komponenten
+  return <LanguageSwitcherClient translations={translations} />;
 }

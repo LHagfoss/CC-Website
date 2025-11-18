@@ -61,7 +61,6 @@
       "description": "Core Capacity is a professional fitness app that motivates you toward better health by preventing musculoskeletal issues.",
       "download_app": "Download app"
     },
-
     "cards": {
       "title": "Experience the power of your core muscles",
       "card1": {
@@ -77,7 +76,6 @@
         "description": "The program consists of three different levels that guide you safely as you begin building a stronger core."
       }
     },
-
     "about": {
       "title": "About Core Capacity",
       "p1": "Our mission is to help people achieve better physical and mental health by activating the core muscles – no matter where they are.",
@@ -85,14 +83,12 @@
       "p3": "Registering in our app is the first step toward a healthier and stronger version of yourself – all it takes is determination and consistent effort to achieve lasting results.",
       "image_alt": "Two people exercising on the floor"
     },
-
     "cta": {
       "title": "Unlock your potential with core-focused training led by experts – supported by research and shown to improve performance by over 10.5%.",
       "p1": "Whether you spend long days at work or push your limits as an athlete, core strength is key. Activate and strengthen your core for better posture, reduced discomfort, and improved performance.",
       "p2": "Our app makes it easy to stay focused and see results – choose from three levels designed to strengthen your core and elevate your training. Start today!",
       "read_more": "Read more about our method"
     },
-
     "app_mockup": {
       "title": "Change your life",
       "p1": "Core Capacity is a platform designed to help you unlock your full potential, build strength, and support your overall health and well-being",
@@ -100,12 +96,19 @@
       "p3": "Measurements of the effect on young athletes who followed the Core Capacity concept showed a performance increase of over 12% in just 8 weeks.",
       "download": "Download"
     },
-
     "supporters": {
       "cultiva": "Supported by cultiva",
       "uia": "Expertise from uia",
       "olympia": "Expertise from olympiatoppen",
       "agder_kommune": "Support from Agder county municipality"
     }
+  },
+  "navbar": {
+    "home": "Home",
+    "about_us": "About us",
+    "contact": "contact",
+    "download": "download",
+    "norwegian": "Norwegian",
+    "english": "English"
   }
 }
