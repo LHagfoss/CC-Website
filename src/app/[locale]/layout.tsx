@@ -23,7 +23,7 @@ export default async function Root({
   return (
     <html lang={params.locale}>
       <body className="">
-      {children}
+        {children}
       </body>
     </html>
   );

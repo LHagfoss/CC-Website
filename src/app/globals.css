@@ -5,14 +5,20 @@
   --accent: #21753C;
   --primary-text: #171717;
   --secondary-text: #282828;
+
+  
 }
 
 @theme inline {
-  --color-background: var(--background);  
-    --color-accent: var(--accent);
+  --color-background: var(--background);
+  --color-accent: var(--accent);
+  --color-primary-text: var(--primary-text);
+  --color-secondary-text: var(--secondary-text);
+
   --color-foreground: var(--foreground);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
+  
 }
 
 body {
