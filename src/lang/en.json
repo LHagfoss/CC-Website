@@ -1,5 +1,57 @@
 {
   "common": {
-    "test": "engelsk"
+    "omOss": {
+      "hero": {
+        "heading": "About Us",
+        "subheading1": "[English for: Hos CoreCapacity er målet vårt å revolusjonere kjernemuskulaturtrening.]",
+        "subheading2": "[English for: Vi hjelper mennesker, uansett hvor de er...]",
+        "imageAlt": "Core training session"
+      },
+      "founder": {
+        "heading": "About the Founder",
+        "imageAlt": "Jan Erik Gulbrandsen",
+        "bio1": "[English for: Den faglige kompetansen til grunnlegger...]",
+        "bio2": "[English for: Vi mener at kompetansen til team...]",
+        "button": "Contact"
+      },
+      "mission": {
+        "heading": "Our mission is to help people achieve better physical and mental health—wherever they are.",
+        "text1": "[English for: Vi ser flere tegn på et paradigmeskifte...]",
+        "text2": "[English for: Merodon vår har vist seg...]",
+        "text3": "[English for: For folk flest kan dette bety...]",
+        "text4": "[English for: CoreCapacity tar teringen i paradigmeskiftet...]",
+        "text5": "[English for: Vår platform tilbyr en dynamisk...]",
+        "imageAlt": "Core training outdoor"
+      },
+      "science": {
+        "heading": "The Science Behind CoreCapacity",
+        "text1": "[English for: Vår unike metode er basert på...]",
+        "text2": "[English for: CoreCapacity handler ikke bare om...]",
+        "button": "Read more",
+        "imageAlt": "Core exercise"
+      },
+      "testimonials": {
+        "preHeading": "Testimonials",
+        "heading": "Why Choose CoreCapacity",
+        "t1": {
+          "imageAlt": "Customer",
+          "quote": "[English for: Core Capacity har gitt meg stabilitet...]",
+          "name": "Haakestad, Osland",
+          "title": "[English for: Tidligste Norsk Master i Hundatning]"
+        },
+        "t2": {
+          "imageAlt": "Customer",
+          "quote": "[English for: Samiligg searmere som var med...]",
+          "name": "Siert Henrikssen",
+          "title": "[English for: Ternor Høgskjutet Str.U Team UIB]"
+        },
+        "t3": {
+          "imageAlt": "Customer",
+          "quote": "[English for: Villoso med CoreCapacity aldri...]",
+          "name": "Viktor Arnór",
+          "title": "[English for: Norsk Apaiat Trenaming]"
+        }
+      }
+    }
   }
 }
