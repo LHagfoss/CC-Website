@@ -54,6 +54,59 @@
           "title": "Norsk Apaiat Trenaming"
         }
       }
+    "test": "norsk"
+  },
+  "home": {
+    "hero": {
+      "title": "Få mer ut av trening - aktiver kjernemuskalturen",
+      "description": "Core Capacity er en profesjonell treningsapp som motiverer deg til bedre helse gjennom forebygging av muskel- og skjelettplager",
+      "download_app": "Last ned app"
+    },
+
+    "cards": {
+      "title": "Opplev kraften i kjernemuskulaturen din",
+      "card1": {
+        "title": "Dynamiske ølvelser",
+        "description": "Treningsprogramvideor for aktivering av kjernemuskulaturen – gir en dokumentert effekt på over 10% forbedring i prestasjon"
+      },
+      "card2": {
+        "title": "Personlig helse",
+        "description": "Forebygger muskel- og skjelettplager, bedrer hormonbalansen og øker kreativitet, produktivitet og gjennomføringsevne"
+      },
+      "card3": {
+        "title": "Program nivåer",
+        "description": "Programmet består av tre ulike nivåer som guider deg trygt i gang med å bygge en sterkere kjerne"
+      }
+    },
+
+    "about": {
+      "title": "Om Core Capacity",
+      "p1": "Vårt oppdrag er å hjelpe mennesker til bedre fysisk og mental helse ved å aktivere kjernemuskulaturen – uansett hvor de befinner seg.",
+      "p2": "Gjennom nøye utviklede treningsvideoer veileder vi bruker fra nivå 1 til nivå 3, med fokus på gradvis og trygg styrking av kjernen. Ved å ta små steg hver uke kan du frigjøre kroppens fulle potensial.",
+      "p3": "Å registrere seg i Appen vår er første steg mot en sunnere og sterkere versjon av deg selv – det eneste som kreves er vilje og jevn innsats for å oppnå varige resultater.",
+      "image_alt": "To personer trener på gulvet"
+    },
+
+    "cta": {
+      "title": "Frigjør ditt potensial med kjernefokusert trening ledet av eksperter – støttet av forskning og dokumentert å gi over 10.5% bedre prestasjon.",
+      "p1": "Enten du sitter lange dager på jobb eller presser grensene som idrettsutøver er kjernestyrke nøkkelen. Aktiver og styrk kjernen for bedre holdning, mindre ubehag og økt prestasjon.",
+      "p2": "Appen vår gjør det enkelt å holde fokus og se resultater- Velg blant tre nivåer – utviklet for å styrke kjernen og løfte treningen din. Start i dag!",
+      "read_more": "Les mer om vår metode"
+    },
+
+    "app_mockup": {
+      "title": "Endre livet ditt",
+      "p1": "Core Capacity er en plattform utviklet for å hjelpe deg med å frigjøre ditt fulle potensial, bygge styrke og støtte din generelle helse og velvære.",
+      "p2": "Den gir deg verktøyene til å styrke både kropp og sinn – og øker selvtillit og fokus for hvert steg du tar.",
+      "p3": "Målinger av effekten på unge utøvere som fulgte Core Capacity-konseptet viste en prestasjonsøkning på over 12% i løpet av 8 uker.",
+      "download": "Last ned"
+    },
+
+    "supporters": {
+      "cultiva": "Støttet av cultiva",
+      "uia": "Ekspertise fra uia",
+      "olympia": "Ekspertise fra olympiatoppen",
+      "agder_kommune": "Støtte fra Agder fylkeskomune"
     }
   }
 }
