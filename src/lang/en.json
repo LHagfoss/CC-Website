@@ -104,5 +104,13 @@
       "olympia": "Expertise from olympiatoppen",
       "agder_kommune": "Support from Agder county municipality"
     }
+  },
+  "navbar": {
+    "home": "Home",
+    "about_us": "About us",
+    "contact": "contact",
+    "download": "download",
+    "norwegian": "Norwegian",
+    "english": "English"
   }
 }
