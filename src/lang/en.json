@@ -3,53 +3,55 @@
     "omOss": {
       "hero": {
         "heading": "About Us",
-        "subheading1": "[English for: Hos CoreCapacity er målet vårt å revolusjonere kjernemuskulaturtrening.]",
-        "subheading2": "[English for: Vi hjelper mennesker, uansett hvor de er...]",
+        "subheading1": "At CoreCapacity, our goal is to revolutionize core muscle training.",
+        "subheading2": "We help people, wherever they are, to improve physical and mental health by activating their core muscles. We believe that better core strength provides better performance, health, and quality of life.",
         "imageAlt": "Core training session"
       },
       "founder": {
         "heading": "About the Founder",
         "imageAlt": "Jan Erik Gulbrandsen",
-        "bio1": "[English for: Den faglige kompetansen til grunnlegger...]",
-        "bio2": "[English for: Vi mener at kompetansen til team...]",
+        "bio1": "The professional expertise of founder and owner Tor Einar Sandvikmoen is high. He is a trained physiotherapist and certified at the highest level in the neurac (Neuromuscular Activation) treatment method and has previously educated and certified physiotherapists internationally, as well as being a member of the Norwegian Teaching Group associated with this community. Sandvikmoen has some experience as a former project manager in connection with the development and patenting of training equipment and as a contributor to several master's theses and Springbrett for Connect Norge. He has also worked as a consultant for Redcord and been involved in testing and developing the Stimula treatment device, as well as contributing to the development of the Neurac treatment method. Sandvikmoen developed a special exercise for activating the innermost core muscle, the Iliopsoas. The exercise was given the resounding name \"Sandvikmoen\" and is used internationally by physiotherapists.",
+        "bio2": "We believe that the expertise of the team / advisory board and project manager helps to ensure the quality of the development of the CoreCapacity method. The team of contributors that has now been assembled and tested, including through pilot research, makes us confident that we can achieve our goals, and it reduces the risk regarding further development work. We feel that we can source the most important and necessary expertise for this project in Norway and in Kristiansand, but we also draw on resources and expertise from abroad when necessary.",
         "button": "Contact"
       },
       "mission": {
         "heading": "Our mission is to help people achieve better physical and mental health—wherever they are.",
-        "text1": "[English for: Vi ser flere tegn på et paradigmeskifte...]",
-        "text2": "[English for: Merodon vår har vist seg...]",
-        "text3": "[English for: For folk flest kan dette bety...]",
-        "text4": "[English for: CoreCapacity tar teringen i paradigmeskiftet...]",
-        "text5": "[English for: Vår platform tilbyr en dynamisk...]",
+        "text1": "We see several signs of a paradigm shift in the debate around the understanding and importance of core musculature. We will try as best we can to build a bridge between old and new knowledge. Our contribution with pilot research happens through conscious choices to collaborate with various professional communities in Norway, to form the basis for a more holistic and interdisciplinary understanding of mechanisms in the body that we still do not fully understand.",
+        "text2": "Our method has been shown to provide over 10.5% better performance for national team athletes, measured by Olympiatoppen and UiA. This is more than double what other methods have previously achieved in just 8 weeks.",
+        "text3": "For most people, this can mean an extra 20-30 meters on their golf drive. Or, as for 5-time Norwegian swimming champion Oskar Erklev; winning gold in events you were never a medal candidate for before.",
+        "text4": "CoreCapacity is taking the lead in the paradigm shift within core training. We do this, among other things, by driving our own research. The results of the research are implemented directly into our digital platform.",
+        "text5": "Our platform offers dynamic and personal customization for the best possible results, whether you are an athlete, a fitness enthusiast, or a regular employee who wants a better quality of life.",
         "imageAlt": "Core training outdoor"
       },
       "science": {
-        "heading": "The Science Behind CoreCapacity",
-        "text1": "[English for: Vår unike metode er basert på...]",
-        "text2": "[English for: CoreCapacity handler ikke bare om...]",
+        "heading": "The Science Behind",
+        "heading2": " CoreCapacity",
+        "text1": "Our unique method is based on research and scientifically documented practices. Through extensive collaboration with experts in various fields, we have developed training methods that combine dynamic exercises with the latest scientific research on core musculature. Unlike outdated static exercises, our approach is innovative, effective, and adaptable to all levels of physical fitness.",
+        "text2": "CoreCapacity is not just about physical training – it's about building knowledge. Through our digital platform, we offer video tutorials, training programs, and scientifically supported insights that ensure you are training in the best way for your body's needs.",
         "button": "Read more",
         "imageAlt": "Core exercise"
       },
       "testimonials": {
         "preHeading": "Testimonials",
-        "heading": "Why Choose CoreCapacity",
+        "heading": "Why Choose",
+        "heading2": " CoreCapacity",
         "t1": {
           "imageAlt": "Customer",
-          "quote": "[English for: Core Capacity har gitt meg stabilitet...]",
-          "name": "Haakestad, Osland",
-          "title": "[English for: Tidligste Norsk Master i Hundatning]"
+          "quote": "\"Core Capacity has given young paddlers in Kristiansand Kayak Club a completely new strength in their core muscles – which has quickly yielded results in the form of better performances and international medals. I am convinced that this method can elevate athletes at all levels.\" \n \"Had I known about Core Capacity when I was competing as a paddler, it could have made a big difference in my career. Now I see how the method gives young athletes clear progress and a solid foundation for further development.\" \n \"With the digitalization of Core Capacity, athletes and fitness enthusiasts all over the world will be able to train their core in a new and effective way. Tor Einar's expertise and method can help elevate both Norwegian and international sports.\"",
+          "name": "Hakeem, Teland",
+          "title": "Former Norwegian Champion in Kayaking"
         },
         "t2": {
           "imageAlt": "Customer",
-          "quote": "[English for: Samiligg searmere som var med...]",
-          "name": "Siert Henrikssen",
-          "title": "[English for: Ternor Høgskjutet Str.U Team UIB]"
+          "quote": "\"All the swimmers who participated in the CoreCapacity project set personal records during the NM long course this Summer. The progress was significant for several of them. The athletes perceived that the exercises had a high transfer value to swimming, especially for crawl and backstroke. The exercises were also perceived as challenging and 'fun', and led to increased motivation and belief that they could perform better in the water. I would like to build on this in the land/dry-land training for the swimmers in Vågsbygd SLK.\"",
+          "name": "Geir Thorstensen",
+          "title": "Coach Vågsbygd SLK/Team Sør"
         },
         "t3": {
           "imageAlt": "Customer",
-          "quote": "[English for: Villoso med CoreCapacity aldri...]",
-          "name": "Viktor Arnór",
-          "title": "[English for: Norsk Apaiat Trenaming]"
+          "quote": "\"The sessions with CoreCapacity definitely increased my core muscle strength and had a direct transfer value to my swimming; I improved all my times in backstroke and crawl by a good margin and took NM gold in events I had never been a medal candidate for before. Access to the training videos via CoreCapacity's app makes it optimal for me to adapt and log the core exercises in a busy training schedule. My achievements during the NM in July 2024; Junior gold in 200 butterfly, 200 medley, 400 medley, and 100 backstroke. Junior silver in 100 butterfly and bronze in 50 backstroke. Senior gold in 400 medley, silver in 200 butterfly and 4x200 free relay, and bronze in 100 butterfly.\"",
+          "name": "Oskar Erklev",
+          "title": "Norwegian Champion in Swimming"
         }
       }
     },
@@ -61,7 +63,6 @@
       "description": "Core Capacity is a professional fitness app that motivates you toward better health by preventing musculoskeletal issues.",
       "download_app": "Download app"
     },
-
     "cards": {
       "title": "Experience the power of your core muscles",
       "card1": {
@@ -77,7 +78,6 @@
         "description": "The program consists of three different levels that guide you safely as you begin building a stronger core."
       }
     },
-
     "about": {
       "title": "About Core Capacity",
       "p1": "Our mission is to help people achieve better physical and mental health by activating the core muscles – no matter where they are.",
@@ -85,14 +85,12 @@
       "p3": "Registering in our app is the first step toward a healthier and stronger version of yourself – all it takes is determination and consistent effort to achieve lasting results.",
       "image_alt": "Two people exercising on the floor"
     },
-
     "cta": {
       "title": "Unlock your potential with core-focused training led by experts – supported by research and shown to improve performance by over 10.5%.",
       "p1": "Whether you spend long days at work or push your limits as an athlete, core strength is key. Activate and strengthen your core for better posture, reduced discomfort, and improved performance.",
       "p2": "Our app makes it easy to stay focused and see results – choose from three levels designed to strengthen your core and elevate your training. Start today!",
       "read_more": "Read more about our method"
     },
-
     "app_mockup": {
       "title": "Change your life",
       "p1": "Core Capacity is a platform designed to help you unlock your full potential, build strength, and support your overall health and well-being",
@@ -100,7 +98,6 @@
       "p3": "Measurements of the effect on young athletes who followed the Core Capacity concept showed a performance increase of over 12% in just 8 weeks.",
       "download": "Download"
     },
-
     "supporters": {
       "cultiva": "Supported by cultiva",
       "uia": "Expertise from uia",
