@@ -1,4 +1,4 @@
-import Content from "@/components/Content";
+
 
 import { Locale } from "@/lib/intl";
 
@@ -23,7 +23,7 @@ export default async function Root({
   return (
     <html lang={params.locale}>
       <body className="">
-        <Content>{children}</Content>
+      {children}
       </body>
     </html>
   );
