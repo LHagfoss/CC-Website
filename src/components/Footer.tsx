@@ -26,7 +26,7 @@ export default async function Footer() {
                         <Link href="/support" className=" block text-lg text-gray-300 hover:text-accent transition">{t('support')}</Link>
                         <Link href="/terms" className="block text-lg text-gray-300 hover:text-accent transition">{t('terms')}</Link>
                         <Link href="/privacy" className="block text-lg text-gray-300 hover:text-accent transition">{t('privacy')}</Link>
-                        <Link href="/aup" className="block text-lg text-gray-300 hover:text-accent transition">{t('use_policy')}</Link>
+                        <Link href="/acceptable-use-policy" className="block text-lg text-gray-300 hover:text-accent transition">{t('use_policy')}</Link>
                         <Link href="/contact" className="block text-lg text-gray-300 hover:text-accent transition">{t('contact')}</Link>
                     </div>
 
