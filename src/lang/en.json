@@ -145,7 +145,6 @@
   "privacy_policy":{
     "title": "privacy policy",
     "description": "This page will be updated soon"
-    
   },
   "footer":{
     "support": "Support",
@@ -153,5 +152,9 @@
     "privacy":"Privacy Policy",
     "use_policy": "Acceptable Use Policy",
     "contact": "Contact"
+  },
+  "aup":{
+    "title": "Acceptable Use Policy",
+    "description": "This page will be updated soon"
   }
 }
