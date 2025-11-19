@@ -132,19 +132,21 @@
   "navbar": {
     "home": "Home",
     "about_us": "About us",
-    "contact": "contact",
-    "download": "download",
+    "contact": "Contact",
+    "download": "Download",
     "norwegian": "Norwegian",
     "english": "English"
   },
-
+  "support":{
+    "title": "Support",
+    "description": "Here you can get help and answers ",
+    "contact": "Email.her@core.com",
+  },
   "footer":{
     "support": "Support",
     "terms": "Terms & Conditions",
     "privacy":"Privacy Policy",
     "use_policy": "Acceptable Use Policy",
     "contact": "Contact"
-  
-
   }
 }
