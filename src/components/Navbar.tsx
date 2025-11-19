@@ -8,7 +8,7 @@ export default async function Navbar() {
     const t = await getTranslations('navbar');
 
     return (
-        <nav className="fixed top-0 right-0 left-0 bg-white w-full z-10 flex justify-center items-center">
+        <nav className="fixed top-0 right-0 left-0 bg-white w-full z-50 flex justify-center items-center">
             <div className=" flex justify-between items-center w-full ">
                 <Link href={"/"}><Image className="h-21 w-21" src={logo} alt="logo" /></Link>
 

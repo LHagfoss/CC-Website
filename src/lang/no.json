@@ -138,13 +138,19 @@
     "contact": "Kontakt",
     "download":"Last ned",
     "norwegian": "Norsk",
-    "english": "Engelsk"
-    
-    
+    "english": "Engelsk",
   },
   "support":{
     "title": "Brukerstøtte",
     "description": "Her kan du få hjelp og svar på spørsmål",
     "contact": "Email.her@core.com"
+    "english": "Engelsk" 
+  },
+  "footer":{
+    "support": "Brukerstøtte",
+    "terms": "Vilkår og betingelser",
+    "privacy":"Personvernerklæring",
+    "use_policy": "Retningslinjer for akseptabel bruk",
+    "contact": "Kontakt"
   }
 }
