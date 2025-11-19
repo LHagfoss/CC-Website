@@ -138,8 +138,16 @@
     "contact": "Kontakt",
     "download":"Last ned",
     "norwegian": "Norsk",
-    "english": "Engelsk"
-    
-    
+    "english": "Engelsk" 
+  },
+ 
+  "footer":{
+    "support": "Brukerstøtte",
+    "terms": "Vilkår og betingelser",
+    "privacy":"Personvernerklæring",
+    "use_policy": "Retningslinjer for akseptabel bruk",
+    "contact": "Kontakt"
+  
+
   }
 }

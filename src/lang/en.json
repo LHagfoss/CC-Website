@@ -136,5 +136,15 @@
     "download": "download",
     "norwegian": "Norwegian",
     "english": "English"
+  },
+
+  "footer":{
+    "support": "Support",
+    "terms": "Terms & Conditions",
+    "privacy":"Privacy Policy",
+    "use_policy": "Acceptable Use Policy",
+    "contact": "Contact"
+  
+
   }
 }
