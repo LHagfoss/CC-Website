@@ -137,24 +137,30 @@
     "norwegian": "Norwegian",
     "english": "English"
   },
-  "support":{
+  "support": {
     "title": "Support",
     "description": "This page will be updated soon",
     "contact": "Email.her@core.com"
   },
-  "privacy_policy":{
+  "privacy_policy": {
     "title": "privacy policy",
     "description": "This page will be updated soon"
   },
-  "footer":{
+  "footer": {
     "support": "Support",
     "terms": "Terms & Conditions",
-    "privacy":"Privacy Policy",
+    "privacy": "Privacy Policy",
     "use_policy": "Acceptable Use Policy",
     "contact": "Contact"
   },
-  "aup":{
+  "aup": {
     "title": "Acceptable Use Policy",
     "description": "This page will be updated soon"
+  },
+  "literature": {
+    "title": "Literature list",
+    "ai": "Apps and AI",
+    "helse": "Prevention of health injuries",
+    "kjerne": "General core"
   }
 }
