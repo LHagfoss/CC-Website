@@ -24,8 +24,6 @@
         "locationValue2": "Andøyfaret 3, 4623"
       }
     },
-
-
     "omOss": {
       "hero": {
         "heading": "Om oss",
@@ -135,28 +133,34 @@
     "home": "Hjem",
     "about_us": "Om oss",
     "contact": "Kontakt",
-    "download":"Last ned",
+    "download": "Last ned",
     "norwegian": "Norsk",
     "english": "Engelsk"
   },
-  "support":{
+  "support": {
     "title": "Brukerstøtte",
     "description": "Denne siden vil bli oppdatert snart.",
     "contact": "Email.her@core.com"
   },
-  "privacy_policy":{
+  "privacy_policy": {
     "title": "Personvern",
     "description": "Denne siden vil bli oppdatert snart."
   },
-  "footer":{
+  "footer": {
     "support": "Brukerstøtte",
     "terms": "Vilkår og betingelser",
-    "privacy":"Personvernerklæring",
+    "privacy": "Personvernerklæring",
     "use_policy": "Retningslinjer for akseptabel bruk",
     "contact": "Kontakt"
   },
-  "aup":{
+  "aup": {
     "title": "Retningslinjer for akseptabel bruk",
     "description": "Denne siden vil bli oppdatert snart."
+  },
+  "literature": {
+    "title": "Litteraturliste",
+    "ai": "Apper og ai ",
+    "helse": "Forebyggende helseskader",
+    "kjerne": " Generelle kjerne"
   }
 }
