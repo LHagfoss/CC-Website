@@ -1,5 +1,29 @@
 {
   "common": {
+    "kontakt": {
+      "hero": {
+        "heading": "Contact Us",
+        "subheading": "Need help? Contact us at ",
+        "subheading1": "support@corecapacity.com",
+        "subheading2": " or fill out the form below and we will get back to you as soon as possible.",
+        "imageAlt": "Kayaker on the water"
+      },
+      "form": {
+        "heading": "Send Mail",
+        "name": "Name",
+        "email": "Email Address",
+        "message": "Message",
+        "submit": "Submit"
+      },
+      "info": {
+        "phone": "Phone Number",
+        "email": "Email Address",
+        "emailValue": "support@corecapacity.com",
+        "location": "Location",
+        "locationValue1": "Kristiansand Technology Park",
+        "locationValue2": "Andøyfaret 3, 4623"
+      }
+    },
     "omOss": {
       "hero": {
         "heading": "About Us",

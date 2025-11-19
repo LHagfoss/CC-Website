@@ -14,6 +14,7 @@ import yogaball from "../../../public/images/tor-einhar-holder-yogaball-cropped.
 import kayaking from "../../../public/images/gutter-klar-for-kayaking.png"
 import forklarer from "../../../public/images/tor-einar-forklarer-ovelse.png"
 import mage from "../../../public/images/Tor-Einar-PT-Mage.png"
+import mobil from "../../../public/images/mobil.png"
 
 
 export default async function Page() {
@@ -67,7 +68,7 @@ export default async function Page() {
             {t('cards.title')}
           </h2>
 
-          <div className="text-center flex flex-col md:flex-row justify-between gap-15 ">
+          <div className="text-center flex flex-col md:flex-row justify-between gap-16 ">
             <FeatureCard
               titleKey="cards.card1.title"
               descriptionKey="cards.card1.description"
@@ -94,7 +95,7 @@ export default async function Page() {
               <Image
                 src={forklarer}
                 alt={t('about.image_alt')}
-                className="rounded-4xl shadow-xl w-full h-auto object-cover"
+                className="rounded-xl shadow-xl w-full h-auto object-cover"
               />
             </div>
 
@@ -170,8 +171,8 @@ export default async function Page() {
               </Link>
             </div>
             <div className="w-full md:w-5/12 flex justify-center md:justify-start">
-              <img
-                src="/images/mobil.png"
+              <Image
+                src={mobil}
                 alt={t('app_mockup.title')}
                 className="w-full h-auto object-contain"
               />
@@ -186,28 +187,31 @@ export default async function Page() {
           <section className="bg-gray-200 py-4 px-4 md:px-20">
             <div className="max-w-6xl mx-auto xl:flex  grid grid-cols-2 justify-around items-start gap-8">
               <SupporterLogo
-                
+                t={t}
                 src={cultivaimage}
-                alt='cultiva bilde'
+                alt={t('supporters.cultiva_alt')}
                 labelKey={'home.supporters.cultiva'}
                 
               />
               <SupporterLogo
+                t={t}
                 src={uiaimage}
-                alt="UiA Motion Lab logo"
+                alt={t('supporters.uia_alt')}
                 labelKey={'home.supporters.uia'}
                 
               />
               <SupporterLogo
+                t={t}
                 src={olympiatoppenimage}
-                alt="Olympiatoppen Sør logo"
+                alt={t('supporters.olympia_alt')}
                 labelKey={'home.supporters.olympia'}
                 
               />
               <SupporterLogo
+                t={t}
                 src={fylkeskomuneimage}
-                alt="Agder Fylkeskommune logo"
-                labelKey={'supporters.agder_kommune'}
+                alt={t('supporters.agder_kommune_alt')}
+                labelKey={'home.supporters.agder_kommune'}
                 
               />
             </div>
@@ -217,5 +221,3 @@ export default async function Page() {
     </main>
   );
 }
-
-
