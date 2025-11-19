@@ -142,6 +142,11 @@
     "description": "This page will be updated soon",
     "contact": "Email.her@core.com"
   },
+  "privacy_policy":{
+    "title": "privacy policy",
+    "description": "This page will be updated soon"
+    
+  },
   "footer":{
     "support": "Support",
     "terms": "Terms & Conditions",
