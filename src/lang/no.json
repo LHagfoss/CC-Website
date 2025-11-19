@@ -81,7 +81,7 @@
         }
       }
     },
-    "test": "norsk"
+    "test": "Norsk"
   },
   "home": {
     "hero": {
@@ -141,5 +141,10 @@
     "english": "Engelsk"
     
     
+  },
+  "support":{
+    "title": "Brukerstøtte",
+    "description": "Her kan du få hjelp og svar på spørsmål",
+    "contact": "Email.her@core.com"
   }
 }
