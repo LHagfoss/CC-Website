@@ -131,19 +131,18 @@
       "agder_kommune": "Støtte fra Agder fylkeskomune"
     }
   },
-
   "navbar": {
     "home": "Hjem",
     "about_us": "Om oss",
     "contact": "Kontakt",
     "download":"Last ned",
     "norwegian": "Norsk",
-    "english": "Engelsk",
+    "english": "Engelsk"
   },
   "support":{
     "title": "Brukerstøtte",
     "description": "Her kan du få hjelp og svar på spørsmål",
-    "contact": "Email.her@core.com"
+    "contact": "Email.her@core.com",
     "english": "Engelsk" 
   },
   "footer":{
