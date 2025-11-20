@@ -77,8 +77,7 @@ export default async function Metode() {
                                 controls
                                 playsInline
                                 preload="metadata"
-                            >
-
+                                 >
                                 <source src="/videos/2-mobil-app-corecapacity-_3.mp4" type="video/mp4" />
                                 Din nettleser støtter ikke videoavspilling.
                             </video>
@@ -146,7 +145,6 @@ export default async function Metode() {
                             </div>
                         </div>
                     </div>
-
                 </div>
             </section>
         </div>
