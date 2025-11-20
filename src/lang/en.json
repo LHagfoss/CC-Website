@@ -299,5 +299,39 @@
     "level2": "2. Increase intensity and complexity for intermediates, with functional movements and dynamic stabilization.",
     "level3": "3. Challenge experienced users with high-intensity exercises that improve power, stability, and endurance.",
     "levelsSummary": "This step-by-step approach makes the program both accessible and motivating, while ensuring steady progress and engagement throughout the journey towards a stronger core."
-  }
+  },
+ "metode": {
+  "heroTitle": "Dynamic Exercises",
+  "heroDrivenBy": "Driven by",
+  "science": "Science",
+  "heroSubtitle": "Effective training for a stronger body",
+  "researchTitle": "Research-Based Approach",
+  "researchP1": "Our methodology is built on solid research, and we have focused on the effects of core muscle activation on both physical and mental health parameters. Research has shown that dynamic core muscle exercises can improve performance by 4-6% in athletes in just 8 weeks, which is more than double that of traditional static exercises. This improvement has been confirmed through several studies comparing the effect of static and dynamic exercises.",
+  "researchP2": "CoreCapacity is supported by a number of studies showing that dynamic exercises not only improve physical performance but can also contribute to increased concentration, better hormonal balance, and even increased creativity and productivity. In line with health-oriented research such as Salutogenesis, we focus on how we can promote health by making activities comprehensible, manageable, and meaningful for users. Our approach builds on health consciousness as a means to help people see how small changes can have a significant impact on health and well-being.",
+  "benefitsTitle": "How Core Training Improves Health",
+  "benefit1Title": "Prevents Musculoskeletal Issues",
+  "benefit1Desc": "Regular core training helps strengthen the muscles supporting the spine and prevents strain injuries.",
+  "benefit2Title": "Improves Posture and Mobility",
+  "benefit2Desc": "Core training improves posture and reduces the risk of back pain and other musculoskeletal disorders.",
+  "benefit3Title": "Increased Concentration and Productivity",
+  "benefit3Desc": "Strengthening core muscles can lead to improved mental clarity and increased productivity.",
+  "benefit4Title": "Better Hormonal Balance",
+  "benefit4Desc": "Research shows that regular exercise can positively affect hormonal balance, which in turn contributes to better health and well-being.",
+  "salutoTitle": "Salutogenesis and Coping Resources",
+  "salutoP1": "Salutogenesis, which emphasizes health factors such as comprehensibility, manageability, and meaningfulness, is a foundation of our training philosophy. Through CoreCapacity, we help users identify coping resources in their daily lives. This gives them better tools to handle stress and physical strain in a way that not only improves performance but also provides them with better health understanding. We make health improvement both understandable and easily accessible by using research showing the connection between physical activity and mental health, and how to make everyday movements more functional and effective.",
+  "videoTitle": "How CoreCapacity Transforms Your Fitness Journey",
+  "connectionsTitle": "The Connections Between Training and Health Improvements",
+  "connectionsP1": "Research has shown that we can enhance our health and performance through changes in how we move our bodies. Reduced activation of core muscles increases the risk of strain injuries and poor posture, which can lead to injuries such as prolapse or wear and tear.",
+  "connectionsP2": "By increasing core muscle activation, we can improve the body's general health and reduce the risk of musculoskeletal issues. Our approach is built on research-based methods showing that dynamic core training can have major health benefits in both the short and long term.",
+  "strategy1Title": "Coping Plans for Long-Term Change",
+  "strategy1Desc": "Think through potential obstacles before they arise to maintain training routines even when life presents challenges.",
+  "strategy2Title": "Self-Monitoring for Increased Awareness",
+  "strategy2Desc": "We encourage tracking progress, which provides mental encouragement and increased motivation to continue.",
+  "usabilityTitle": "Training Methodology and Usability",
+  "usabilityText": "CoreCapacity is not just a training app; it is a holistic solution for activating and strengthening core musculature with a focus on the user's health and quality of life. Through our platform, we offer both structured training sessions and tools to track progress, combined with proven methods for behavioral change. The user gets access to a customized training program based on their individual level and progression, while we utilize innovative methods like AI to further tailor the sessions.",
+  "dataTitle": "Research and Data Supporting the Effectiveness of Core Training",
+  "dataText": "The impact of core training on performance and health is not just theoretical; it is documented through several studies showing concrete numbers and effects. For example, research on athletes has shown that effective core training can lead to a performance improvement of over 10%, confirming that our method delivers measurable results. Additionally, we have proof that dynamic core muscle training can prevent musculoskeletal disorders, while simultaneously providing health benefits such as increased productivity, better mood, and improved mental clarity.",
+  "literatureBtn": "Literature List"
+}
+
 }
