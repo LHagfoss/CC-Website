@@ -3,10 +3,9 @@ import { i18n } from '../i18n-config';
 
 export default createMiddleware({
   locales: i18n.locales,
-
   defaultLocale: i18n.defaultLocale
 });
 
 export const config = {
-  matcher: ['/((?!api|_next|.*\\..*).*)']
+  matcher: ['/((?!api|_next|studio|.*\\..*).*)']
 };
