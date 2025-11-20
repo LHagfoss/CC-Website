@@ -79,7 +79,118 @@
         }
       }
     },
-    "test": "engelsk"
+    "test": "engelsk",
+    "lastNed": {
+      "design": {
+      "eyebrow": "CORECAPACITY'S DESIGN"
+    },
+    "features1": {
+      "eyebrow": "CORECAPACITY'S FEATURES"
+    },
+      "hero": {
+        "imageAlt": "Person using CoreCapacity on a tablet"
+      },
+      "divider1": "CoreCapacity",
+      "mockup": {
+        "imageAlt": "CoreCapacity app shown on the App Store"
+      },
+      "cta": {
+        "button": "Download App"
+      },
+      "plans": {
+        "title": "CORECAPACITY'S PLANS",
+        "divider": "Join In",
+        "plan1": {
+          "level": "Easy Level",
+          "title": "Get Started",
+          "description": "Perfect for beginners! This level focuses on building a solid foundation by activating core muscles with simple exercises. Ideal for those just starting their fitness journey, or wanting better posture and increased general strength.",
+          "features": [
+            "Short guided sessions",
+            "Easy to follow",
+            "Basic exercises for core muscle activation",
+            "Track your progress from day one"
+          ]
+        },
+        "plan2": {
+          "level": "Medium Level",
+          "title": "Challenge Your Core",
+          "description": "The medium level introduces more dynamic movements to strengthen core muscles and improve stability. Perfect for those with some training experience who want to challenge themselves further.",
+          "features": [
+            "Moderate intensity",
+            "Dynamic movements for a stronger core",
+            "Time-based intervals to build endurance",
+            "More advanced core techniques"
+          ]
+        },
+        "plan3": {
+          "level": "Advanced Level",
+          "title": "Master Your Core Training",
+          "description": "Developed for experienced fitness enthusiasts and athletes. The advanced level offers intensive and more complex core exercises to help you reach peak performance and maximize muscle activation.",
+          "features": [
+            "High-intensity training",
+            "Advanced core exercises for maximum muscle activation",
+            "For athletes or those with high fitness goals",
+            "Increased difficulty"
+          ]
+        }
+      },
+      "features": {
+        "title": "Experience your core's full potential",
+        "mockups": [
+          {
+            "src": "/images/joinnow3.png",
+            "alt": "App Screenshot 1"
+          },
+          {
+            "src": "/images/join-now1.png",
+            "alt": "App Screenshot 2"
+          },
+          {
+            "src": "/images/join-now-2.png",
+            "alt": "App Screenshot 3"
+          }
+        ],
+        "divider": "The App's Core Functions",
+        "items": [
+          {
+            "icon": "/images/Artboard-8.png",
+            "iconAlt": "Personalization Icon",
+            "title": "Personalized Exercise Adaptation",
+            "description": "The app offers dynamic and customized exercises specific to activating and strengthening core muscles, contributing to better performance and reduced risk of injury."
+          },
+          {
+            "icon": "/images/Artboard-4.png",
+            "iconAlt": "Progressive Icon",
+            "title": "Progressive Training",
+            "description": "The sessions are designed to be progressive, with the user receiving systematic progression with increasing difficulty, leading to better results over time."
+          },
+          {
+            "icon": "/images/Workout-Achievements-01.png",
+            "iconAlt": "AI Icon",
+            "title": "AI Integration for Personalization",
+            "description": "The app uses artificial intelligence to analyze user data and individually adapt exercises and training programs for optimal progress."
+          },
+          {
+            "icon": "/images/Abdominal-Workout-01.png",
+            "iconAlt": "Video Icon",
+            "title": "Video Guidance and Educational Exercises",
+            "description": "With instructional videos, the user can see the exercises in action and learn to perform them correctly, ensuring a safe training experience."
+          },
+          {
+            "icon": "/images/Artboard-5.png",
+            "iconAlt": "Health Icon",
+            "title": "Health-Promoting Measures",
+            "description": "The app focuses on health-promoting measures that prevent musculoskeletal disorders, contributing to better health and reduced sick leave."
+          },
+          {
+            "icon": "/images/Artboard-3.png",
+            "iconAlt": "Research Icon",
+            "title": "Research-Supported Training Method",
+            "description": "The app is based on research showing significant performance-enhancing effects on core musculature."
+          }
+        ]
+      }
+    }
   },
   "home": {
     "hero": {
