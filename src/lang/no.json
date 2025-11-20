@@ -192,6 +192,7 @@
         ]
       }
     }
+    "test": "Norsk"
   },
   "home": {
     "hero": {
@@ -248,5 +249,31 @@
     "download": "Last ned",
     "norwegian": "Norsk",
     "english": "Engelsk"
+  },
+  "support": {
+    "title": "Brukerstøtte",
+    "description": "Denne siden vil bli oppdatert snart.",
+    "contact": "Email.her@core.com"
+  },
+  "privacy_policy": {
+    "title": "Personvern",
+    "description": "Denne siden vil bli oppdatert snart."
+  },
+  "footer": {
+    "support": "Brukerstøtte",
+    "terms": "Vilkår og betingelser",
+    "privacy": "Personvernerklæring",
+    "use_policy": "Retningslinjer for akseptabel bruk",
+    "contact": "Kontakt"
+  },
+  "aup": {
+    "title": "Retningslinjer for akseptabel bruk",
+    "description": "Denne siden vil bli oppdatert snart."
+  },
+  "literature": {
+    "title": "Litteraturliste",
+    "ai": "Apper og ai ",
+    "helse": "Forebyggende helseskader",
+    "kjerne": " Generelle kjerne"
   }
 }

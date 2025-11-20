@@ -187,32 +187,25 @@ export default async function Page() {
           <section className="bg-gray-200 py-4 px-4 md:px-20">
             <div className="max-w-6xl mx-auto xl:flex  grid grid-cols-2 justify-around items-start gap-8">
               <SupporterLogo
-                t={t}
                 src={cultivaimage}
-                alt={t('supporters.cultiva_alt')}
+                alt={'home.supporters.cultiva'}
                 labelKey={'home.supporters.cultiva'}
-                
               />
               <SupporterLogo
-                t={t}
                 src={uiaimage}
-                alt={t('supporters.uia_alt')}
+                alt={'home.supporters.uia'}
                 labelKey={'home.supporters.uia'}
-                
               />
               <SupporterLogo
-                t={t}
                 src={olympiatoppenimage}
-                alt={t('supporters.olympia_alt')}
+                alt={'home.supporters.olympia'}
                 labelKey={'home.supporters.olympia'}
                 
               />
               <SupporterLogo
-                t={t}
                 src={fylkeskomuneimage}
-                alt={t('supporters.agder_kommune_alt')}
+                alt={'home.supporters.agder_kommune'}
                 labelKey={'home.supporters.agder_kommune'}
-                
               />
             </div>
           </section>
