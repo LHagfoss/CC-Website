@@ -24,8 +24,6 @@
         "locationValue2": "Andøyfaret 3, 4623"
       }
     },
-
-
     "omOss": {
       "hero": {
         "heading": "Om oss",
@@ -81,7 +79,119 @@
         }
       }
     },
-    "test": "norsk"
+    "test": "norsk",
+    "lastNed": {
+      "design": {
+        "eyebrow": "CORECAPACITYS DESIGN"
+      },
+      "features1": {
+        "eyebrow": "CORECAPACITYS EGENSKAPER"
+      },
+      
+      "hero": {
+        "imageAlt": "Person som bruker CoreCapacity på et nettbrett"
+      },
+      "divider1": "CoreCapacity",
+      "mockup": {
+        "imageAlt": "CoreCapacity-appen vist på App Store"
+      },
+      "cta": {
+        "button": "Last ned app"
+      },
+      "plans": {
+        "title": "CORECAPACITYS PLANER",
+        "divider": "Bli med",
+        "plan1": {
+          "level": "Lett nivå",
+          "title": "Kom i gang",
+          "description": "Perfekt for nybegynnere! Dette nivået fokuserer på å bygge et solid grunnlag ved å aktivere kjernemuskulaturen med enkle øvelser. Ideelt for deg som nettopp har startet treningsreisen, eller som ønsker bedre holdning og økt generell styrke.",
+          "features": [
+            "Korte guidede økter",
+            "Enkle å følge",
+            "Grunnleggende øvelser for aktivering av kjernemuskulaturen",
+            "Følg fremgangen din fra dag én"
+          ]
+        },
+        "plan2": {
+          "level": "Middels nivå",
+          "title": "Utfordre kjernen din",
+          "description": "Middels nivået introduserer mer dynamiske bevegelser for å styrke kjernemuskulaturen og forbedre stabiliteten. Perfekt for deg med noe treningserfaring som ønsker å utfordre deg selv videre.",
+          "features": [
+            "Moderat intensitet",
+            "Dynamiske bevegelser for en sterkere kjerne",
+            "Tidsbaserte intervaller for å bygge utholdenhet",
+            "Mer avanserte kjerneteknikker"
+          ]
+        },
+        "plan3": {
+          "level": "Avansert nivå",
+          "title": "Bli en mester i kjernetrening",
+          "description": "Utviklet for erfarne treningsentusiaster og idrettsutøvere. Det avanserte nivået byr på intensive og mer komplekse kjerneøvelser som hjelper deg med å nå topp prestasjon og maksimere muskelaktivering.",
+          "features": [
+            "Høyintensiv trening",
+            "Avanserte kjerneøvelser for maksimal muskelaktivering",
+            "For idrettsutøvere eller deg med høye treningsmål",
+            "Økt vanskelighetsgrad"
+          ]
+        }
+      },
+      "features": {
+        "title": "Opplev kjernen din sitt fulle potensiale",
+        "mockups": [
+          {
+            "src": "/images/joinnow3.png",
+            "alt": "App-skjermbilde 1"
+          },
+          {
+            "src": "/images/join-now1.png",
+            "alt": "App-skjermbilde 2"
+          },
+          {
+            "src": "/images/join-now-2.png",
+            "alt": "App-skjermbilde 3"
+          }
+        ],
+        "divider": "Appens Kjernefunksjoner",
+        "items": [
+          {
+            "icon": "/images/Artboard-8.png",
+            "iconAlt": "Tilpasning ikon",
+            "title": "Personlig Tilpasning av Øvelser",
+            "description": "Appen tilbyr dynamiske og tilpassede øvelser som er spesifikke for å aktivere og styrke kjernemuskulaturen. Som bidrar til bedre prestasjon og reduserer risikoen for skader."
+          },
+          {
+            "icon": "/images/Artboard-4.png",
+            "iconAlt": "Progressiv ikon",
+            "title": "Progressiv Trening",
+            "description": "Øktene er designet for å være progressive, og brukeren får systematisk progresjon med økende vanskelighetsgrad, noe som gir bedre resultater over tid."
+          },
+          {
+            "icon": "/images/Workout-Achievements-01.png",
+            "iconAlt": "KI ikon",
+            "title": "Integrering av KI for Personlig Tilpasning",
+            "description": "Appen bruker kunstig intelligens for å analysere brukerdata og tilpasse øvelser og treningsprogrammer individuelt for optimal fremgang."
+          },
+          {
+            "icon": "/images/Abdominal-Workout-01.png",
+            "iconAlt": "Video ikon",
+            "title": "Video Veiledning og Pedagogiske Øvelser",
+            "description": "Med instruksjonsvideoer kan brukeren se øvelsene i aksjon, og lære å utføre dem riktig, som gir en trygg treningsopplevelse."
+          },
+          {
+            "icon": "/images/Artboard-5.png",
+            "iconAlt": "Helse ikon",
+            "title": "Helsefremmende Tiltak",
+            "description": "Appen fokuserer på helsefremmende tiltak som forebygger muskel- og skjelettplager, noe som bidrar til bedre helse og redusert sykefravær."
+          },
+          {
+            "icon": "/images/Artboard-3.png",
+            "iconAlt": "Forskning ikon",
+            "title": "Forskningsstøttet treningsmetode",
+            "description": "Appen bygger på forskning som viser betydelige prestasjonsfremmende effekter på kjernemuskulatur."
+          }
+        ]
+      }
+    }
   },
   "home": {
     "hero": {
@@ -131,15 +241,12 @@
       "agder_kommune": "Støtte fra Agder fylkeskomune"
     }
   },
-
   "navbar": {
     "home": "Hjem",
     "about_us": "Om oss",
     "contact": "Kontakt",
-    "download":"Last ned",
+    "download": "Last ned",
     "norwegian": "Norsk",
     "english": "Engelsk"
-    
-    
   }
 }
