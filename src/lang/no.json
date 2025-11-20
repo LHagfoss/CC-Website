@@ -162,5 +162,31 @@
     "ai": "Apper og ai ",
     "helse": "Forebyggende helseskader",
     "kjerne": " Generelle kjerne"
+  },
+  "dynamic": {
+    "heroTitle": "Kjernemuskulatur -",
+    "heroDrivenBy": "drevet av",
+    "science": "vitenskap",
+    "heroSubtitle": "En banebrytende treningsapplikasjon designet for å revolusjonere trening av kjernemuskulaturen",
+    "sectionTitle": "CoreCapacity: Styrk kjernen, Forbedre livet ditt",
+    "missionText": "Vårt oppdrag er enkelt: å hjelpe mennesker med å aktivere kjernemuskulaturen, og dermed forbedre både fysisk og mental helse. Ved å kombinere velprøvde metoder med både digital og analog veiledning, gir CoreCapacity brukerne muligheten til å forbedre kjernestyrken på sitt eget nivå.",
+    "benefitsText": "Dette fører til bedre prestasjoner, redusert sykefravær på arbeidsplassen og en generelt sunnere livsstil. Vårt vitenskapelig støttede treningsprogram handler ikke bare om styrke – det handler om å bygge et fundament for bedre generell prestasjon og et sunnere, mer balansert liv.",
+    "trainingTitle": "Treningsprogramvideoer for aktivering av kjernemuskulaturen - med dokumentert prestasjonsforbedring på over 10,5%",
+    "trainingP1": "Vi fokuserer på dynamiske kjerneøvelser som effektivt aktiverer kjernemuskulaturen. Forskning viser at dynamiske, integrerte øvelser som knebøy og markløft aktiverer kjernen like godt – eller bedre – enn tradisjonelle isolerte øvelser som planken.",
+    "trainingP2": "CoreCapacity sitt treningsopplegg bygger på dynamiske øvelser med forskningsstøtte, som har vist tydelige prestasjonsforbedringer – blant annet en økning i atletisk prestasjon på over 10,5%. Denne effekten er bekreftet i studier som sammenligner statiske og dynamiske øvelser.",
+    "trainingP3": "Tilnærmingen støttes av nyere forskning som viser at funksjonelle øvelser, hvor flere ledd og muskelgrupper jobber sammen, aktiverer kjernen mer effektivt enn statiske og isolerte øvelser. Disse funnene understreker hvor viktig det er å inkludere dynamiske bevegelsesmønstre i treningen for å styrke kjernen.",
+    "trainingSummary": "Denne tilnærmingen støttes av nyere studier, som viser at funksjonelle øvelser som involverer flere ledd og muskelgrupper aktiverer kjernemuskulaturen mer effektivt enn statiske, isolerte øvelser. Funnene understreker viktigheten av å inkludere dynamiske bevegelsesmønstre i en treningsrutine for å styrke kjernen.",
+    "healthTitle": "Forebygger muskel- og skjelettplager, forbedrer hormonbalansen og øker kreativitet, produktivitet og gjennomføringsevne.",
+    "healthP1": "CoreCapacity sin tilnærming til kjernetrening handler ikke bare om prestasjon, men også om helhetlig helse og velvære. Ved å integrere kjerneøvelser i hverdagen styrkes muskulaturen som støtter ryggraden, noe som bidrar til å forebygge muskel- og skjelettplager.",
+    "healthP2": "I tillegg har kjernetrening en positiv effekt på hormonbalansen, og kan føre til økt produktivitet og kreativitet. Studier viser at regelmessig trening av kjernemuskulaturen kan forebygge vanlige plager som ryggsmerte, forbedre kroppsholdningen og til og med styrke mental klarhet.",
+    "healthSummary": "Kjernestyrke for bedre helse: Å styrke kjernemuskulaturen reduserer risikoen for skader og forbedrer kroppsholdningen, noe som direkte påvirker evnen til å utføre daglige aktiviteter mer effektivt. Regelmessig trening øker bevisstheten rundt kroppens bevegelser og gjør det enklere å opprettholde god kroppsstilling i hverdagen.",
+    "literatureBtn": "Litteraturliste",
+    "levelsTitle": "Programmet er delt inn i tre nivåer, utviklet for å hjelpe brukere i gang med kjernetrening.",
+    "levelsIntro": "CoreCapacity sitt treningsprogram er tilpasset alle treningsnivåer – fra nybegynnere til erfarne. Programmet er strukturert i tre nivåer, der hvert nivå gradvis øker i både vanskelighetsgrad og kompleksitet. Denne tilnærmingen gjør at brukeren kan starte i sitt eget tempo og utvikle seg i takt med økt styrke og trygghet i treningen.",
+    "levelsBoxTitle": "De tre nivåene har som mål å:",
+    "level1": "1. Introdusere grunnleggende kjerneøvelser med håndterlig intensitet for nybegynnere.",
+    "level2": "2. Øke intensiteten og kompleksiteten for viderekomne, med funksjonelle bevegelser og dynamisk stabilisering.",
+    "level3": "3. Utfordre erfarne brukere med høyintensive øvelser som forbedrer kraft, stabilitet og utholdenhet.",
+    "levelsSummary": "Denne trinnvise tilnærmingen gjør programmet både tilgjengelig og motiverende, samtidig som den sikrer jevn fremgang og engasjement gjennom hele reisen mot en sterkere kjerne."
   }
 }

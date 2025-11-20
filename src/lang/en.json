@@ -162,5 +162,31 @@
     "ai": "Apps and AI",
     "helse": "Prevention of health injuries",
     "kjerne": "General core"
+  },
+  "dynamic": {
+    "heroTitle": "Core Musculature -",
+    "heroDrivenBy": "driven by",
+    "science": "science",
+    "heroSubtitle": "A groundbreaking training application designed to revolutionize core training",
+    "sectionTitle": "CoreCapacity: Strengthen your core, improve your life",
+    "missionText": "Our mission is simple: to help people activate their core muscles, and thereby improve both physical and mental health. By combining proven methods with both digital and analog guidance, CoreCapacity gives users the opportunity to improve their core strength at their own level.",
+    "benefitsText": "This leads to better performance, reduced sick leave at the workplace, and a generally healthier lifestyle. Our scientifically backed training program is not just about strength – it is about building a foundation for better overall performance and a healthier, more balanced life.",
+    "trainingTitle": "Core activation training program videos - with documented performance improvement of over 10.5%",
+    "trainingP1": "We focus on dynamic core exercises that effectively activate the core musculature. Research shows that dynamic, integrated exercises such as squats and deadlifts activate the core just as well – or better – than traditional isolated exercises like the plank.",
+    "trainingP2": "CoreCapacity's training program is based on dynamic exercises supported by research, which have shown clear performance improvements – including an increase in athletic performance of over 10.5%. This effect is confirmed in studies comparing static and dynamic exercises.",
+    "trainingP3": "This approach is supported by recent research showing that functional exercises, where multiple joints and muscle groups work together, activate the core more effectively than static and isolated exercises. These findings underscore the importance of including dynamic movement patterns in training to strengthen the core.",
+    "trainingSummary": "This approach is supported by recent studies showing that functional exercises involving multiple joints and muscle groups activate the core musculature more effectively than static, isolated exercises. The findings underscore the importance of including dynamic movement patterns in a training routine to strengthen the core.",
+    "healthTitle": "Prevents musculoskeletal disorders, improves hormone balance, and increases creativity, productivity, and execution ability.",
+    "healthP1": "CoreCapacity's approach to core training is not just about performance, but also about holistic health and well-being. By integrating core exercises into daily life, the muscles supporting the spine are strengthened, which helps prevent musculoskeletal disorders.",
+    "healthP2": "In addition, core training has a positive effect on hormone balance and can lead to increased productivity and creativity. Studies show that regular training of the core musculature can prevent common ailments such as back pain, improve posture, and even strengthen mental clarity.",
+    "healthSummary": "Core strength for better health: Strengthening the core musculature reduces the risk of injuries and improves posture, which directly affects the ability to perform daily activities more effectively. Regular training increases awareness of the body's movements and makes it easier to maintain good posture in everyday life.",
+    "literatureBtn": "Literature List",
+    "levelsTitle": "The program is divided into three levels, developed to help users get started with core training.",
+    "levelsIntro": "CoreCapacity's training program is adapted to all fitness levels – from beginners to experienced. The program is structured in three levels, where each level gradually increases in both difficulty and complexity. This approach allows the user to start at their own pace and develop in tandem with increased strength and confidence in training.",
+    "levelsBoxTitle": "The three levels aim to:",
+    "level1": "1. Introduce basic core exercises with manageable intensity for beginners.",
+    "level2": "2. Increase intensity and complexity for intermediates, with functional movements and dynamic stabilization.",
+    "level3": "3. Challenge experienced users with high-intensity exercises that improve power, stability, and endurance.",
+    "levelsSummary": "This step-by-step approach makes the program both accessible and motivating, while ensuring steady progress and engagement throughout the journey towards a stronger core."
   }
 }
