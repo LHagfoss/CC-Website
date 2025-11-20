@@ -60,8 +60,8 @@ export default async function Page() {
           </h1>
           <p className="mb-8 text-lg">{t('hero.description')}</p>
           <Link
-            href="/download-app"
-            className="inline-block rounded bg-accent px-6 py-3 font-bold text-white shadow transition duration-200 hover:bg-accent/50"
+            href="/last-ned"
+            className="inline-block rounded-2xl bg-accent px-6 py-3 font-bold text-white shadow transition duration-200 hover:bg-accent/50"
           >
             {t('hero.download_app')}
           </Link>
@@ -129,7 +129,7 @@ export default async function Page() {
             {t('cta.p2')}
           </p>
           <Link
-            href="/read-more"
+            href="/metode"
             className="inline-block rounded-2xl bg-accent px-6 py-3 font-bold text-white transition duration-200 hover:bg-accent/50"
           >
             {t('cta.read_more')}
@@ -149,7 +149,7 @@ export default async function Page() {
             <p className="text-md mb-4">{t('app_mockup.p3')}</p>
 
             <Link
-              href="/download-app"
+              href="/last-ned"
               className="inline-block rounded-2xl bg-accent px-4 py-2 font-bold text-white shadow transition duration-200 hover:bg-accent/70"
             >
               {t('app_mockup.download')}
