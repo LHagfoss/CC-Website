@@ -1,5 +1,17 @@
 {
   "common": {
+"blogg": {
+      "title": "Blogg",
+      "eyebrow": "VÅRE ARTIKLER",
+      "readMore": "Les mer",
+      "noPosts": "Ingen blogginnlegg funnet."
+    },
+    "research": {
+      "title": "Research",
+      "eyebrow": "VÅR FORSKNING",
+      "readMore": "Les mer",
+      "noPosts": "Ingen research-innlegg funnet."
+    },
     "kontakt": {
       "hero": {
         "heading": "Kontakt oss",
@@ -87,7 +99,6 @@
       "features1": {
         "eyebrow": "CORECAPACITYS EGENSKAPER"
       },
-      
       "hero": {
         "imageAlt": "Person som bruker CoreCapacity på et nettbrett"
       },
