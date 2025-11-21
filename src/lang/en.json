@@ -1,5 +1,17 @@
 {
   "common": {
+"blogg": {
+      "title": "Blog",
+      "eyebrow": "OUR ARTICLES",
+      "readMore": "Read more",
+      "noPosts": "No blog posts found."
+    },
+    "research": {
+      "title": "Research",
+      "eyebrow": "OUR RESEARCH",
+      "readMore": "Read more",
+      "noPosts": "No research entries found."
+    },
     "kontakt": {
       "hero": {
         "heading": "Contact Us",
@@ -82,11 +94,11 @@
     "test": "engelsk",
     "lastNed": {
       "design": {
-      "eyebrow": "CORECAPACITY'S DESIGN"
-    },
-    "features1": {
-      "eyebrow": "CORECAPACITY'S FEATURES"
-    },
+        "eyebrow": "CORECAPACITY'S DESIGN"
+      },
+      "features1": {
+        "eyebrow": "CORECAPACITY'S FEATURES"
+      },
       "hero": {
         "imageAlt": "Person using CoreCapacity on a tablet"
       },

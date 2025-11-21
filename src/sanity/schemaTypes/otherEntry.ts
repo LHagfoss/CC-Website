@@ -2,8 +2,8 @@ import { DocumentTextIcon } from '@sanity/icons'
 import { defineType, defineField } from 'sanity'
 
 export default defineType({
-  name: 'reserchEntry', // Beholder navnet ditt, selv om det er en skrivefeil :)
-  title: 'ReserchInnlegg',
+  name: 'researchEntry', // RETTET SKRIVEFEIL: "reserchEntry" -> "researchEntry"
+  title: 'Research-innlegg', // RETTET SKRIVEFEIL
   type: 'document',
   icon: DocumentTextIcon,
   fields: [
@@ -14,26 +14,34 @@ export default defineType({
       validation: (Rule) => Rule.required(),
     }),
 
-    // --- NYTT FELT START ---
+    // --- FELT 2: LEGG TIL DENNE ---
+    defineField({
+      name: 'slug',
+      title: 'Slug (URL-vennlig navn)',
+      type: 'slug',
+      options: {
+        source: 'title', // Lager automatisk slug fra 'title'-feltet
+        maxLength: 96,
+      },
+      validation: (Rule) => Rule.required(),
+    }),
+    // --- SLUTT ---
+
     defineField({
       name: 'language',
       title: 'Språk',
       type: 'string',
-      // Gjør det til et påkrevd felt
       validation: (Rule) => Rule.required(),
       options: {
         list: [
           { title: 'Norsk', value: 'no' },
           { title: 'Engelsk', value: 'en' }
         ],
-        layout: 'radio', // Viser som radioknapper
-        direction: 'horizontal', // Viser dem side-om-side
+        layout: 'radio',
+        direction: 'horizontal',
       },
-      // Setter 'Norsk' som standardvalg for nye innlegg
       initialValue: 'no',
     }),
-    // --- NYTT FELT SLUTT ---
-
     defineField({
       name: 'date',
       title: 'Dato',

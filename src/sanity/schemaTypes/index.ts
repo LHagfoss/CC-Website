@@ -1,7 +1,7 @@
 import { type SchemaTypeDefinition } from 'sanity'
-import blogPost from './blogPost'
-import otherEntry from './otherEntry'
+import bloggPost from './bloggPost'
+import otherEntry from './otherEntry' // Importerer den oppdaterte filen
 
 export const schema: { types: SchemaTypeDefinition[] } = {
-  types: [blogPost, otherEntry],
+  types: [bloggPost, otherEntry],
 }
